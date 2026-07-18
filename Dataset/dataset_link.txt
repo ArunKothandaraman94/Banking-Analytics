@@ -1,0 +1,7 @@
+Dataset: Czech Financial Dataset (PKDD'99)
+
+Source:
+https://www.kaggle.com/datasets/krzysztofjamroz/banking-dataset-1999
+
+This project uses the publicly available banking dataset from Kaggle.
+The raw dataset is not included in this repository.
